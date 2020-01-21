@@ -78,7 +78,7 @@ def get_max_lengths(data_path):
         sorted_word_length = sorted(word_length_list)
         sorted_sent_length = sorted(sent_length_list)
 
-    return sorted_word_length[int(0.6*len(sorted_word_length))], sorted_sent_length[int(0.6*len(sorted_sent_length))]
+    return sorted_word_length[int(0.8*len(sorted_word_length))], sorted_sent_length[int(0.8*len(sorted_sent_length))]
 
 if __name__ == "__main__":
     word, sent = get_max_lengths("../data/cite_acl/train_cite.csv")
