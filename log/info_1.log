@@ -1,0 +1,405 @@
+Fine tune the word embedding
+25 267
+Epoch: 1/1000, Iteration: 1/532, Lr: 1e-05, Loss: 0.6931372880935669, Accuracy: 0.53125
+--- 12.156480550765991 seconds ---
+Epoch: 1/1000, Iteration: 2/532, Lr: 1e-05, Loss: 0.6931085586547852, Accuracy: 0.40625
+--- 10.153152227401733 seconds ---
+Epoch: 1/1000, Iteration: 3/532, Lr: 1e-05, Loss: 0.6929838061332703, Accuracy: 0.46875
+--- 9.539662599563599 seconds ---
+Epoch: 1/1000, Iteration: 4/532, Lr: 1e-05, Loss: 0.692583441734314, Accuracy: 0.6875
+--- 9.617137908935547 seconds ---
+Epoch: 1/1000, Iteration: 5/532, Lr: 1e-05, Loss: 0.6927107572555542, Accuracy: 0.5625
+--- 9.39835500717163 seconds ---
+Epoch: 1/1000, Iteration: 6/532, Lr: 1e-05, Loss: 0.6926994919776917, Accuracy: 0.6875
+--- 10.025976419448853 seconds ---
+Epoch: 1/1000, Iteration: 7/532, Lr: 1e-05, Loss: 0.6932373046875, Accuracy: 0.46875
+--- 9.447386264801025 seconds ---
+Epoch: 1/1000, Iteration: 8/532, Lr: 1e-05, Loss: 0.6928113698959351, Accuracy: 0.5625
+--- 9.416524410247803 seconds ---
+Epoch: 1/1000, Iteration: 9/532, Lr: 1e-05, Loss: 0.6919400691986084, Accuracy: 0.71875
+--- 9.510553121566772 seconds ---
+Epoch: 1/1000, Iteration: 10/532, Lr: 1e-05, Loss: 0.6934030055999756, Accuracy: 0.4375
+--- 9.490440368652344 seconds ---
+Epoch: 1/1000, Iteration: 11/532, Lr: 1e-05, Loss: 0.6929894089698792, Accuracy: 0.5625
+--- 9.43409252166748 seconds ---
+Epoch: 1/1000, Iteration: 12/532, Lr: 1e-05, Loss: 0.6923489570617676, Accuracy: 0.625
+--- 9.51808476448059 seconds ---
+Epoch: 1/1000, Iteration: 13/532, Lr: 1e-05, Loss: 0.6932801604270935, Accuracy: 0.4375
+--- 9.501046657562256 seconds ---
+Epoch: 1/1000, Iteration: 14/532, Lr: 1e-05, Loss: 0.6924263834953308, Accuracy: 0.625
+--- 9.444920539855957 seconds ---
+Epoch: 1/1000, Iteration: 15/532, Lr: 1e-05, Loss: 0.6927996873855591, Accuracy: 0.5625
+--- 10.66495943069458 seconds ---
+Epoch: 1/1000, Iteration: 16/532, Lr: 1e-05, Loss: 0.6934438943862915, Accuracy: 0.46875
+--- 9.455196619033813 seconds ---
+Epoch: 1/1000, Iteration: 17/532, Lr: 1e-05, Loss: 0.692539632320404, Accuracy: 0.5625
+--- 9.461965322494507 seconds ---
+Epoch: 1/1000, Iteration: 18/532, Lr: 1e-05, Loss: 0.6931416988372803, Accuracy: 0.46875
+--- 9.480501651763916 seconds ---
+Epoch: 1/1000, Iteration: 19/532, Lr: 1e-05, Loss: 0.6921197772026062, Accuracy: 0.59375
+--- 9.472821950912476 seconds ---
+Epoch: 1/1000, Iteration: 20/532, Lr: 1e-05, Loss: 0.6926436424255371, Accuracy: 0.5625
+--- 9.562382221221924 seconds ---
+Epoch: 1/1000, Iteration: 21/532, Lr: 1e-05, Loss: 0.6938427686691284, Accuracy: 0.40625
+--- 9.393662691116333 seconds ---
+Epoch: 1/1000, Iteration: 22/532, Lr: 1e-05, Loss: 0.6941272020339966, Accuracy: 0.375
+--- 9.714861631393433 seconds ---
+Epoch: 1/1000, Iteration: 23/532, Lr: 1e-05, Loss: 0.6924138069152832, Accuracy: 0.5625
+--- 9.576146364212036 seconds ---
+Epoch: 1/1000, Iteration: 24/532, Lr: 1e-05, Loss: 0.6947748064994812, Accuracy: 0.3125
+--- 9.444144487380981 seconds ---
+Epoch: 1/1000, Iteration: 25/532, Lr: 1e-05, Loss: 0.6933560371398926, Accuracy: 0.5
+--- 9.678455591201782 seconds ---
+Epoch: 1/1000, Iteration: 26/532, Lr: 1e-05, Loss: 0.6924381852149963, Accuracy: 0.53125
+--- 9.559046983718872 seconds ---
+Epoch: 1/1000, Iteration: 27/532, Lr: 1e-05, Loss: 0.6911113262176514, Accuracy: 0.71875
+--- 9.540835618972778 seconds ---
+Epoch: 1/1000, Iteration: 28/532, Lr: 1e-05, Loss: 0.6922823190689087, Accuracy: 0.625
+--- 9.47017502784729 seconds ---
+Epoch: 1/1000, Iteration: 29/532, Lr: 1e-05, Loss: 0.6922317147254944, Accuracy: 0.5625
+--- 9.72418999671936 seconds ---
+Epoch: 1/1000, Iteration: 30/532, Lr: 1e-05, Loss: 0.6922928690910339, Accuracy: 0.5625
+--- 9.963649034500122 seconds ---
+Epoch: 1/1000, Iteration: 31/532, Lr: 1e-05, Loss: 0.6928505897521973, Accuracy: 0.5
+--- 10.12659478187561 seconds ---
+Epoch: 1/1000, Iteration: 32/532, Lr: 1e-05, Loss: 0.6921451091766357, Accuracy: 0.5625
+--- 9.46890926361084 seconds ---
+Epoch: 1/1000, Iteration: 33/532, Lr: 1e-05, Loss: 0.6919153928756714, Accuracy: 0.59375
+--- 9.42445707321167 seconds ---
+Epoch: 1/1000, Iteration: 34/532, Lr: 1e-05, Loss: 0.6920173168182373, Accuracy: 0.625
+--- 9.465772151947021 seconds ---
+Epoch: 1/1000, Iteration: 35/532, Lr: 1e-05, Loss: 0.6927568316459656, Accuracy: 0.4375
+--- 9.42981481552124 seconds ---
+Epoch: 1/1000, Iteration: 36/532, Lr: 1e-05, Loss: 0.6916467547416687, Accuracy: 0.65625
+--- 9.4602530002594 seconds ---
+Epoch: 1/1000, Iteration: 37/532, Lr: 1e-05, Loss: 0.6924107670783997, Accuracy: 0.5625
+--- 9.450826406478882 seconds ---
+Epoch: 1/1000, Iteration: 38/532, Lr: 1e-05, Loss: 0.6931118369102478, Accuracy: 0.46875
+--- 9.446512460708618 seconds ---
+Epoch: 1/1000, Iteration: 39/532, Lr: 1e-05, Loss: 0.6932144165039062, Accuracy: 0.53125
+--- 9.624534130096436 seconds ---
+Epoch: 1/1000, Iteration: 40/532, Lr: 1e-05, Loss: 0.6920795440673828, Accuracy: 0.5625
+--- 9.40596342086792 seconds ---
+Epoch: 1/1000, Iteration: 41/532, Lr: 1e-05, Loss: 0.6916525363922119, Accuracy: 0.65625
+--- 10.107592582702637 seconds ---
+Epoch: 1/1000, Iteration: 42/532, Lr: 1e-05, Loss: 0.6923143863677979, Accuracy: 0.59375
+--- 9.952478170394897 seconds ---
+Epoch: 1/1000, Iteration: 43/532, Lr: 1e-05, Loss: 0.6932615637779236, Accuracy: 0.5
+--- 9.780885457992554 seconds ---
+Epoch: 1/1000, Iteration: 44/532, Lr: 1e-05, Loss: 0.6904374361038208, Accuracy: 0.6875
+--- 9.429401397705078 seconds ---
+Epoch: 1/1000, Iteration: 45/532, Lr: 1e-05, Loss: 0.6934943199157715, Accuracy: 0.40625
+--- 9.858473777770996 seconds ---
+Epoch: 1/1000, Iteration: 46/532, Lr: 1e-05, Loss: 0.6925525665283203, Accuracy: 0.59375
+--- 9.703593015670776 seconds ---
+Epoch: 1/1000, Iteration: 47/532, Lr: 1e-05, Loss: 0.6921148300170898, Accuracy: 0.5625
+--- 10.67918086051941 seconds ---
+Epoch: 1/1000, Iteration: 48/532, Lr: 1e-05, Loss: 0.6933935284614563, Accuracy: 0.5
+--- 9.75357723236084 seconds ---
+Epoch: 1/1000, Iteration: 49/532, Lr: 1e-05, Loss: 0.6926571130752563, Accuracy: 0.59375
+--- 11.55644679069519 seconds ---
+Epoch: 1/1000, Iteration: 50/532, Lr: 1e-05, Loss: 0.6920168995857239, Accuracy: 0.53125
+--- 9.632851600646973 seconds ---
+Epoch: 1/1000, Iteration: 51/532, Lr: 1e-05, Loss: 0.6916146874427795, Accuracy: 0.5625
+--- 9.45130443572998 seconds ---
+Epoch: 1/1000, Iteration: 52/532, Lr: 1e-05, Loss: 0.6969113349914551, Accuracy: 0.25
+--- 9.555046558380127 seconds ---
+Epoch: 1/1000, Iteration: 53/532, Lr: 1e-05, Loss: 0.6929243803024292, Accuracy: 0.53125
+--- 9.506720304489136 seconds ---
+Epoch: 1/1000, Iteration: 54/532, Lr: 1e-05, Loss: 0.6934020519256592, Accuracy: 0.5
+--- 9.487785339355469 seconds ---
+Epoch: 1/1000, Iteration: 55/532, Lr: 1e-05, Loss: 0.6933149695396423, Accuracy: 0.46875
+--- 9.53505277633667 seconds ---
+Epoch: 1/1000, Iteration: 56/532, Lr: 1e-05, Loss: 0.6937674283981323, Accuracy: 0.4375
+--- 9.443973541259766 seconds ---
+Epoch: 1/1000, Iteration: 57/532, Lr: 1e-05, Loss: 0.6921905875205994, Accuracy: 0.5625
+--- 9.47710633277893 seconds ---
+Epoch: 1/1000, Iteration: 58/532, Lr: 1e-05, Loss: 0.6926500797271729, Accuracy: 0.5
+--- 9.995606422424316 seconds ---
+Epoch: 1/1000, Iteration: 59/532, Lr: 1e-05, Loss: 0.6932101249694824, Accuracy: 0.46875
+--- 9.806332111358643 seconds ---
+Epoch: 1/1000, Iteration: 60/532, Lr: 1e-05, Loss: 0.6929135322570801, Accuracy: 0.5
+--- 9.554152011871338 seconds ---
+Epoch: 1/1000, Iteration: 61/532, Lr: 1e-05, Loss: 0.691328763961792, Accuracy: 0.5625
+--- 9.4585702419281 seconds ---
+Epoch: 1/1000, Iteration: 62/532, Lr: 1e-05, Loss: 0.6917814016342163, Accuracy: 0.5625
+--- 9.546846866607666 seconds ---
+Epoch: 1/1000, Iteration: 63/532, Lr: 1e-05, Loss: 0.6941354274749756, Accuracy: 0.4375
+--- 9.430608034133911 seconds ---
+Epoch: 1/1000, Iteration: 64/532, Lr: 1e-05, Loss: 0.6936655640602112, Accuracy: 0.4375
+--- 9.46846079826355 seconds ---
+Epoch: 1/1000, Iteration: 65/532, Lr: 1e-05, Loss: 0.690892219543457, Accuracy: 0.59375
+--- 9.457130908966064 seconds ---
+Epoch: 1/1000, Iteration: 66/532, Lr: 1e-05, Loss: 0.6928666830062866, Accuracy: 0.5
+--- 9.510033369064331 seconds ---
+Epoch: 1/1000, Iteration: 67/532, Lr: 1e-05, Loss: 0.6896352171897888, Accuracy: 0.71875
+--- 9.962707996368408 seconds ---
+Epoch: 1/1000, Iteration: 68/532, Lr: 1e-05, Loss: 0.6935425400733948, Accuracy: 0.46875
+--- 9.960561990737915 seconds ---
+Epoch: 1/1000, Iteration: 69/532, Lr: 1e-05, Loss: 0.6913338899612427, Accuracy: 0.59375
+--- 10.09674334526062 seconds ---
+Epoch: 1/1000, Iteration: 70/532, Lr: 1e-05, Loss: 0.6926647424697876, Accuracy: 0.5
+--- 10.012062788009644 seconds ---
+Epoch: 1/1000, Iteration: 71/532, Lr: 1e-05, Loss: 0.693495512008667, Accuracy: 0.4375
+--- 9.870507717132568 seconds ---
+Epoch: 1/1000, Iteration: 72/532, Lr: 1e-05, Loss: 0.6915075778961182, Accuracy: 0.59375
+--- 9.9231276512146 seconds ---
+Epoch: 1/1000, Iteration: 73/532, Lr: 1e-05, Loss: 0.6913495063781738, Accuracy: 0.625
+--- 10.445618629455566 seconds ---
+Epoch: 1/1000, Iteration: 74/532, Lr: 1e-05, Loss: 0.6922377347946167, Accuracy: 0.5625
+--- 9.56921911239624 seconds ---
+Epoch: 1/1000, Iteration: 75/532, Lr: 1e-05, Loss: 0.6921933889389038, Accuracy: 0.5625
+--- 9.475319147109985 seconds ---
+Epoch: 1/1000, Iteration: 76/532, Lr: 1e-05, Loss: 0.6941542029380798, Accuracy: 0.4375
+--- 9.54318642616272 seconds ---
+Epoch: 1/1000, Iteration: 77/532, Lr: 1e-05, Loss: 0.6935725808143616, Accuracy: 0.4375
+--- 9.74345326423645 seconds ---
+Epoch: 1/1000, Iteration: 78/532, Lr: 1e-05, Loss: 0.6903417110443115, Accuracy: 0.625
+--- 9.798734664916992 seconds ---
+Epoch: 1/1000, Iteration: 79/532, Lr: 1e-05, Loss: 0.6914716958999634, Accuracy: 0.59375
+--- 9.479758739471436 seconds ---
+Epoch: 1/1000, Iteration: 80/532, Lr: 1e-05, Loss: 0.6929822564125061, Accuracy: 0.5
+--- 9.516301155090332 seconds ---
+Epoch: 1/1000, Iteration: 81/532, Lr: 1e-05, Loss: 0.6941829919815063, Accuracy: 0.40625
+--- 9.470414161682129 seconds ---
+Epoch: 1/1000, Iteration: 82/532, Lr: 1e-05, Loss: 0.6942063570022583, Accuracy: 0.4375
+--- 9.527916431427002 seconds ---
+Epoch: 1/1000, Iteration: 83/532, Lr: 1e-05, Loss: 0.6931154727935791, Accuracy: 0.46875
+--- 9.472114324569702 seconds ---
+Epoch: 1/1000, Iteration: 84/532, Lr: 1e-05, Loss: 0.6934383511543274, Accuracy: 0.46875
+--- 9.574291706085205 seconds ---
+Epoch: 1/1000, Iteration: 85/532, Lr: 1e-05, Loss: 0.6920216083526611, Accuracy: 0.53125
+--- 9.483524084091187 seconds ---
+Epoch: 1/1000, Iteration: 86/532, Lr: 1e-05, Loss: 0.6941796541213989, Accuracy: 0.4375
+--- 9.538389921188354 seconds ---
+Epoch: 1/1000, Iteration: 87/532, Lr: 1e-05, Loss: 0.6932816505432129, Accuracy: 0.46875
+--- 9.48308777809143 seconds ---
+Epoch: 1/1000, Iteration: 88/532, Lr: 1e-05, Loss: 0.6916327476501465, Accuracy: 0.53125
+--- 9.512223958969116 seconds ---
+Epoch: 1/1000, Iteration: 89/532, Lr: 1e-05, Loss: 0.6935243606567383, Accuracy: 0.40625
+--- 9.510103940963745 seconds ---
+Epoch: 1/1000, Iteration: 90/532, Lr: 1e-05, Loss: 0.6917170882225037, Accuracy: 0.59375
+--- 9.570744752883911 seconds ---
+Epoch: 1/1000, Iteration: 91/532, Lr: 1e-05, Loss: 0.691224217414856, Accuracy: 0.625
+--- 9.476710081100464 seconds ---
+Epoch: 1/1000, Iteration: 92/532, Lr: 1e-05, Loss: 0.6917867660522461, Accuracy: 0.5625
+--- 9.482536792755127 seconds ---
+Epoch: 1/1000, Iteration: 93/532, Lr: 1e-05, Loss: 0.6924495697021484, Accuracy: 0.5
+--- 9.631691932678223 seconds ---
+Epoch: 1/1000, Iteration: 94/532, Lr: 1e-05, Loss: 0.6935252547264099, Accuracy: 0.4375
+--- 9.550061464309692 seconds ---
+Epoch: 1/1000, Iteration: 95/532, Lr: 1e-05, Loss: 0.6936323046684265, Accuracy: 0.46875
+--- 9.48525619506836 seconds ---
+Epoch: 1/1000, Iteration: 96/532, Lr: 1e-05, Loss: 0.6937812566757202, Accuracy: 0.40625
+--- 10.005580425262451 seconds ---
+Epoch: 1/1000, Iteration: 97/532, Lr: 1e-05, Loss: 0.6931750178337097, Accuracy: 0.46875
+--- 9.52467942237854 seconds ---
+Epoch: 1/1000, Iteration: 98/532, Lr: 1e-05, Loss: 0.6906254291534424, Accuracy: 0.625
+--- 9.54864239692688 seconds ---
+Epoch: 1/1000, Iteration: 99/532, Lr: 1e-05, Loss: 0.6956005096435547, Accuracy: 0.34375
+--- 9.735036373138428 seconds ---
+Epoch: 1/1000, Iteration: 100/532, Lr: 1e-05, Loss: 0.6941952109336853, Accuracy: 0.40625
+--- 9.464427947998047 seconds ---
+Epoch: 1/1000, Iteration: 101/532, Lr: 1e-05, Loss: 0.6933636665344238, Accuracy: 0.4375
+--- 10.394550800323486 seconds ---
+Epoch: 1/1000, Iteration: 102/532, Lr: 1e-05, Loss: 0.6907361745834351, Accuracy: 0.59375
+--- 9.970361232757568 seconds ---
+Epoch: 1/1000, Iteration: 103/532, Lr: 1e-05, Loss: 0.6918685436248779, Accuracy: 0.53125
+--- 9.461400270462036 seconds ---
+Epoch: 1/1000, Iteration: 104/532, Lr: 1e-05, Loss: 0.6937963962554932, Accuracy: 0.4375
+--- 10.748563051223755 seconds ---
+Epoch: 1/1000, Iteration: 105/532, Lr: 1e-05, Loss: 0.6945168972015381, Accuracy: 0.375
+--- 9.545393466949463 seconds ---
+Epoch: 1/1000, Iteration: 106/532, Lr: 1e-05, Loss: 0.694736659526825, Accuracy: 0.40625
+--- 9.592513799667358 seconds ---
+Epoch: 1/1000, Iteration: 107/532, Lr: 1e-05, Loss: 0.6926618814468384, Accuracy: 0.46875
+--- 9.613197088241577 seconds ---
+Epoch: 1/1000, Iteration: 108/532, Lr: 1e-05, Loss: 0.6942923069000244, Accuracy: 0.4375
+--- 9.64188551902771 seconds ---
+Epoch: 1/1000, Iteration: 109/532, Lr: 1e-05, Loss: 0.6931657195091248, Accuracy: 0.5
+--- 9.644148111343384 seconds ---
+Epoch: 1/1000, Iteration: 110/532, Lr: 1e-05, Loss: 0.6959494352340698, Accuracy: 0.3125
+--- 9.602582693099976 seconds ---
+Epoch: 1/1000, Iteration: 111/532, Lr: 1e-05, Loss: 0.6953038573265076, Accuracy: 0.375
+--- 9.517323732376099 seconds ---
+Epoch: 1/1000, Iteration: 112/532, Lr: 1e-05, Loss: 0.6904720067977905, Accuracy: 0.6875
+--- 9.520129442214966 seconds ---
+Epoch: 1/1000, Iteration: 113/532, Lr: 1e-05, Loss: 0.6912392377853394, Accuracy: 0.53125
+--- 9.53563666343689 seconds ---
+Epoch: 1/1000, Iteration: 114/532, Lr: 1e-05, Loss: 0.6913807392120361, Accuracy: 0.5625
+--- 9.590306997299194 seconds ---
+Epoch: 1/1000, Iteration: 115/532, Lr: 1e-05, Loss: 0.694920003414154, Accuracy: 0.375
+--- 9.573689222335815 seconds ---
+Epoch: 1/1000, Iteration: 116/532, Lr: 1e-05, Loss: 0.6926279067993164, Accuracy: 0.5
+--- 9.560422658920288 seconds ---
+Epoch: 1/1000, Iteration: 117/532, Lr: 1e-05, Loss: 0.695475697517395, Accuracy: 0.28125
+--- 9.587683916091919 seconds ---
+Epoch: 1/1000, Iteration: 118/532, Lr: 1e-05, Loss: 0.6913176774978638, Accuracy: 0.5625
+--- 9.585164070129395 seconds ---
+Epoch: 1/1000, Iteration: 119/532, Lr: 1e-05, Loss: 0.693498969078064, Accuracy: 0.5
+--- 9.530404806137085 seconds ---
+Epoch: 1/1000, Iteration: 120/532, Lr: 1e-05, Loss: 0.6949625015258789, Accuracy: 0.34375
+--- 9.58917236328125 seconds ---
+Epoch: 1/1000, Iteration: 121/532, Lr: 1e-05, Loss: 0.6925094127655029, Accuracy: 0.53125
+--- 9.544501066207886 seconds ---
+Epoch: 1/1000, Iteration: 122/532, Lr: 1e-05, Loss: 0.6936327219009399, Accuracy: 0.46875
+--- 9.639047861099243 seconds ---
+Epoch: 1/1000, Iteration: 123/532, Lr: 1e-05, Loss: 0.6939949989318848, Accuracy: 0.46875
+--- 9.668932676315308 seconds ---
+Epoch: 1/1000, Iteration: 124/532, Lr: 1e-05, Loss: 0.6944544911384583, Accuracy: 0.46875
+--- 9.529350280761719 seconds ---
+Epoch: 1/1000, Iteration: 125/532, Lr: 1e-05, Loss: 0.6893225312232971, Accuracy: 0.75
+--- 9.657828330993652 seconds ---
+Epoch: 1/1000, Iteration: 126/532, Lr: 1e-05, Loss: 0.6932970285415649, Accuracy: 0.53125
+--- 9.530455827713013 seconds ---
+Epoch: 1/1000, Iteration: 127/532, Lr: 1e-05, Loss: 0.6925134658813477, Accuracy: 0.5
+--- 10.105893611907959 seconds ---
+Epoch: 1/1000, Iteration: 128/532, Lr: 1e-05, Loss: 0.692873477935791, Accuracy: 0.5
+--- 9.615260362625122 seconds ---
+Epoch: 1/1000, Iteration: 129/532, Lr: 1e-05, Loss: 0.6940962076187134, Accuracy: 0.4375
+--- 9.833044290542603 seconds ---
+Epoch: 1/1000, Iteration: 130/532, Lr: 1e-05, Loss: 0.6921813488006592, Accuracy: 0.5625
+--- 9.557549238204956 seconds ---
+Epoch: 1/1000, Iteration: 131/532, Lr: 1e-05, Loss: 0.6934338808059692, Accuracy: 0.5
+--- 9.559671401977539 seconds ---
+Epoch: 1/1000, Iteration: 132/532, Lr: 1e-05, Loss: 0.6928341388702393, Accuracy: 0.4375
+--- 9.600756168365479 seconds ---
+Epoch: 1/1000, Iteration: 133/532, Lr: 1e-05, Loss: 0.6934617757797241, Accuracy: 0.4375
+--- 9.554369449615479 seconds ---
+Epoch: 1/1000, Iteration: 134/532, Lr: 1e-05, Loss: 0.693975031375885, Accuracy: 0.53125
+--- 9.466336727142334 seconds ---
+Epoch: 1/1000, Iteration: 135/532, Lr: 1e-05, Loss: 0.6927881836891174, Accuracy: 0.5
+--- 9.49464225769043 seconds ---
+Epoch: 1/1000, Iteration: 136/532, Lr: 1e-05, Loss: 0.69149249792099, Accuracy: 0.59375
+--- 9.536064147949219 seconds ---
+Epoch: 1/1000, Iteration: 137/532, Lr: 1e-05, Loss: 0.6906065940856934, Accuracy: 0.625
+--- 9.851856470108032 seconds ---
+Epoch: 1/1000, Iteration: 138/532, Lr: 1e-05, Loss: 0.6946920156478882, Accuracy: 0.34375
+--- 9.997353315353394 seconds ---
+Epoch: 1/1000, Iteration: 139/532, Lr: 1e-05, Loss: 0.6925739049911499, Accuracy: 0.53125
+--- 10.490302085876465 seconds ---
+Epoch: 1/1000, Iteration: 140/532, Lr: 1e-05, Loss: 0.691622257232666, Accuracy: 0.5625
+--- 165.04034399986267 seconds ---
+Epoch: 1/1000, Iteration: 141/532, Lr: 1e-05, Loss: 0.6916038393974304, Accuracy: 0.59375
+--- 11.02275562286377 seconds ---
+Epoch: 1/1000, Iteration: 142/532, Lr: 1e-05, Loss: 0.6905259490013123, Accuracy: 0.59375
+--- 12.766290426254272 seconds ---
+Epoch: 1/1000, Iteration: 143/532, Lr: 1e-05, Loss: 0.6933945417404175, Accuracy: 0.46875
+--- 15.830243110656738 seconds ---
+Epoch: 1/1000, Iteration: 144/532, Lr: 1e-05, Loss: 0.6912078857421875, Accuracy: 0.59375
+--- 13.398545980453491 seconds ---
+Epoch: 1/1000, Iteration: 145/532, Lr: 1e-05, Loss: 0.6923967599868774, Accuracy: 0.4375
+--- 693.7403795719147 seconds ---
+Epoch: 1/1000, Iteration: 146/532, Lr: 1e-05, Loss: 0.6941261291503906, Accuracy: 0.46875
+--- 2767.569712162018 seconds ---
+Epoch: 1/1000, Iteration: 147/532, Lr: 1e-05, Loss: 0.6929018497467041, Accuracy: 0.4375
+--- 10.267927408218384 seconds ---
+Epoch: 1/1000, Iteration: 148/532, Lr: 1e-05, Loss: 0.690401554107666, Accuracy: 0.65625
+--- 9.473981857299805 seconds ---
+Epoch: 1/1000, Iteration: 149/532, Lr: 1e-05, Loss: 0.6920186281204224, Accuracy: 0.5625
+--- 9.5913245677948 seconds ---
+Epoch: 1/1000, Iteration: 150/532, Lr: 1e-05, Loss: 0.6943974494934082, Accuracy: 0.375
+--- 9.73530626296997 seconds ---
+Epoch: 1/1000, Iteration: 151/532, Lr: 1e-05, Loss: 0.6911953687667847, Accuracy: 0.625
+--- 10.474403858184814 seconds ---
+Epoch: 1/1000, Iteration: 152/532, Lr: 1e-05, Loss: 0.6922543048858643, Accuracy: 0.5
+--- 9.66390585899353 seconds ---
+Epoch: 1/1000, Iteration: 153/532, Lr: 1e-05, Loss: 0.6890548467636108, Accuracy: 0.71875
+--- 9.737220764160156 seconds ---
+Epoch: 1/1000, Iteration: 154/532, Lr: 1e-05, Loss: 0.6923220753669739, Accuracy: 0.5625
+--- 9.574979782104492 seconds ---
+Epoch: 1/1000, Iteration: 155/532, Lr: 1e-05, Loss: 0.6900123357772827, Accuracy: 0.65625
+--- 9.510488510131836 seconds ---
+Epoch: 1/1000, Iteration: 156/532, Lr: 1e-05, Loss: 0.6940780878067017, Accuracy: 0.40625
+--- 9.548402070999146 seconds ---
+Epoch: 1/1000, Iteration: 157/532, Lr: 1e-05, Loss: 0.6919798254966736, Accuracy: 0.59375
+--- 9.525487899780273 seconds ---
+Epoch: 1/1000, Iteration: 158/532, Lr: 1e-05, Loss: 0.6932570934295654, Accuracy: 0.46875
+--- 9.54501461982727 seconds ---
+Epoch: 1/1000, Iteration: 159/532, Lr: 1e-05, Loss: 0.6932985782623291, Accuracy: 0.46875
+--- 9.57750940322876 seconds ---
+Epoch: 1/1000, Iteration: 160/532, Lr: 1e-05, Loss: 0.6927868127822876, Accuracy: 0.46875
+--- 9.517627477645874 seconds ---
+Epoch: 1/1000, Iteration: 161/532, Lr: 1e-05, Loss: 0.6930639743804932, Accuracy: 0.53125
+--- 9.793710708618164 seconds ---
+Epoch: 1/1000, Iteration: 162/532, Lr: 1e-05, Loss: 0.6903420090675354, Accuracy: 0.53125
+--- 9.631184577941895 seconds ---
+Epoch: 1/1000, Iteration: 163/532, Lr: 1e-05, Loss: 0.6904928684234619, Accuracy: 0.625
+--- 9.57844877243042 seconds ---
+Epoch: 1/1000, Iteration: 164/532, Lr: 1e-05, Loss: 0.6927287578582764, Accuracy: 0.5625
+--- 11.381928205490112 seconds ---
+Epoch: 1/1000, Iteration: 165/532, Lr: 1e-05, Loss: 0.6892164945602417, Accuracy: 0.65625
+--- 9.616976022720337 seconds ---
+Epoch: 1/1000, Iteration: 166/532, Lr: 1e-05, Loss: 0.6935243606567383, Accuracy: 0.46875
+--- 9.586028099060059 seconds ---
+Epoch: 1/1000, Iteration: 167/532, Lr: 1e-05, Loss: 0.6921275854110718, Accuracy: 0.53125
+--- 9.597203254699707 seconds ---
+Epoch: 1/1000, Iteration: 168/532, Lr: 1e-05, Loss: 0.6944267749786377, Accuracy: 0.34375
+--- 9.658607244491577 seconds ---
+Epoch: 1/1000, Iteration: 169/532, Lr: 1e-05, Loss: 0.6919552683830261, Accuracy: 0.46875
+--- 9.520771026611328 seconds ---
+Epoch: 1/1000, Iteration: 170/532, Lr: 1e-05, Loss: 0.693375825881958, Accuracy: 0.46875
+--- 9.696366310119629 seconds ---
+Epoch: 1/1000, Iteration: 171/532, Lr: 1e-05, Loss: 0.6941304206848145, Accuracy: 0.46875
+--- 9.731638669967651 seconds ---
+Epoch: 1/1000, Iteration: 172/532, Lr: 1e-05, Loss: 0.6926852464675903, Accuracy: 0.59375
+--- 9.63932466506958 seconds ---
+Epoch: 1/1000, Iteration: 173/532, Lr: 1e-05, Loss: 0.6921800971031189, Accuracy: 0.4375
+--- 9.628036499023438 seconds ---
+Epoch: 1/1000, Iteration: 174/532, Lr: 1e-05, Loss: 0.6916101574897766, Accuracy: 0.53125
+--- 9.574814558029175 seconds ---
+Epoch: 1/1000, Iteration: 175/532, Lr: 1e-05, Loss: 0.6928960084915161, Accuracy: 0.5625
+--- 9.833887338638306 seconds ---
+Epoch: 1/1000, Iteration: 176/532, Lr: 1e-05, Loss: 0.6924160718917847, Accuracy: 0.5
+--- 12.736404418945312 seconds ---
+Epoch: 1/1000, Iteration: 177/532, Lr: 1e-05, Loss: 0.6929342150688171, Accuracy: 0.4375
+--- 14.294627666473389 seconds ---
+Epoch: 1/1000, Iteration: 178/532, Lr: 1e-05, Loss: 0.6932519674301147, Accuracy: 0.5
+--- 11.968029260635376 seconds ---
+Epoch: 1/1000, Iteration: 179/532, Lr: 1e-05, Loss: 0.6915777921676636, Accuracy: 0.53125
+--- 11.536041736602783 seconds ---
+Epoch: 1/1000, Iteration: 180/532, Lr: 1e-05, Loss: 0.6947758197784424, Accuracy: 0.40625
+--- 12.311773538589478 seconds ---
+Epoch: 1/1000, Iteration: 181/532, Lr: 1e-05, Loss: 0.6907832026481628, Accuracy: 0.5
+--- 11.580295324325562 seconds ---
+Epoch: 1/1000, Iteration: 182/532, Lr: 1e-05, Loss: 0.6923195123672485, Accuracy: 0.5625
+--- 11.622117042541504 seconds ---
+Epoch: 1/1000, Iteration: 183/532, Lr: 1e-05, Loss: 0.6923304796218872, Accuracy: 0.5
+--- 11.630270004272461 seconds ---
+Epoch: 1/1000, Iteration: 184/532, Lr: 1e-05, Loss: 0.6922940015792847, Accuracy: 0.46875
+--- 11.476718187332153 seconds ---
+Epoch: 1/1000, Iteration: 185/532, Lr: 1e-05, Loss: 0.6929597854614258, Accuracy: 0.53125
+--- 13.393441677093506 seconds ---
+Epoch: 1/1000, Iteration: 186/532, Lr: 1e-05, Loss: 0.6918909549713135, Accuracy: 0.5625
+--- 14.124382972717285 seconds ---
+Epoch: 1/1000, Iteration: 187/532, Lr: 1e-05, Loss: 0.6905329823493958, Accuracy: 0.65625
+--- 10.361696720123291 seconds ---
+Epoch: 1/1000, Iteration: 188/532, Lr: 1e-05, Loss: 0.6908576488494873, Accuracy: 0.59375
+--- 15.046049118041992 seconds ---
+Epoch: 1/1000, Iteration: 189/532, Lr: 1e-05, Loss: 0.6930728554725647, Accuracy: 0.40625
+--- 10.800454139709473 seconds ---
+Epoch: 1/1000, Iteration: 190/532, Lr: 1e-05, Loss: 0.6902279853820801, Accuracy: 0.625
+--- 10.509439706802368 seconds ---
+Epoch: 1/1000, Iteration: 191/532, Lr: 1e-05, Loss: 0.6933625340461731, Accuracy: 0.4375
+--- 13.224959373474121 seconds ---
+Epoch: 1/1000, Iteration: 192/532, Lr: 1e-05, Loss: 0.6871345043182373, Accuracy: 0.6875
+--- 10.483434677124023 seconds ---
+Epoch: 1/1000, Iteration: 193/532, Lr: 1e-05, Loss: 0.6925725936889648, Accuracy: 0.5
+--- 10.239084243774414 seconds ---
+Epoch: 1/1000, Iteration: 194/532, Lr: 1e-05, Loss: 0.6911094188690186, Accuracy: 0.53125
+--- 12.0649254322052 seconds ---
+Epoch: 1/1000, Iteration: 195/532, Lr: 1e-05, Loss: 0.6909117698669434, Accuracy: 0.53125
+--- 11.743901491165161 seconds ---
+Epoch: 1/1000, Iteration: 196/532, Lr: 1e-05, Loss: 0.6922627091407776, Accuracy: 0.5625
+--- 15.73827052116394 seconds ---
+Epoch: 1/1000, Iteration: 197/532, Lr: 1e-05, Loss: 0.6918281316757202, Accuracy: 0.5625
+--- 11.254679203033447 seconds ---
+Epoch: 1/1000, Iteration: 198/532, Lr: 1e-05, Loss: 0.6906954050064087, Accuracy: 0.59375
+--- 10.908238410949707 seconds ---
+Epoch: 1/1000, Iteration: 199/532, Lr: 1e-05, Loss: 0.6920958757400513, Accuracy: 0.53125
+--- 11.466501712799072 seconds ---
+Epoch: 1/1000, Iteration: 200/532, Lr: 1e-05, Loss: 0.693929135799408, Accuracy: 0.46875
+--- 9.693699359893799 seconds ---
+Epoch: 1/1000, Iteration: 201/532, Lr: 1e-05, Loss: 0.6896942257881165, Accuracy: 0.6875
+--- 10.830475330352783 seconds ---
+Epoch: 1/1000, Iteration: 202/532, Lr: 1e-05, Loss: 0.6915333867073059, Accuracy: 0.5
