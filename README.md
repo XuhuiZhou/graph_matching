@@ -3,6 +3,8 @@ Please find the data on:
 
 /data2/xuhuizh/matching_new/data 
 
+And please create empty folder like below.
+
 .\
 ├── data \
 │   ├── chinese_news \
@@ -10,7 +12,6 @@ Please find the data on:
 │   └── word_embedding \
 ├── log \
 ├── src \
-│   └── __pycache__ \
 ├── tensorboard \
 └── trained_models \
 
