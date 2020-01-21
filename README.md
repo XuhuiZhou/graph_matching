@@ -4,15 +4,15 @@ Please find the data on:
 /data2/xuhuizh/matching_new/data 
 
 .
-├── data
-│   ├── chinese_news
-│   ├── cite_acl
-│   └── word_embedding
-├── log
-├── src
-│   └── __pycache__
-├── tensorboard
-└── trained_models
+├── data \
+│   ├── chinese_news \
+│   ├── cite_acl \
+│   └── word_embedding \
+├── log \
+├── src \
+│   └── __pycache__ \
+├── tensorboard \
+└── trained_models \
 
 Just run
 
